@@ -1,44 +1,118 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0A66C2&height=180&section=header&text=Hi,%20I'm%20Mingyao%20👋&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Django%20%7C%20Python&descAlignY=55&descFontColor=ffffff)
+<!-- Banner -->
 
-![Profile views](https://komarev.com/ghpvc/?username=mingyaox1&color=36BCF7&style=flat)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f9cff,100:2dd4bf&height=220&section=header&text=Hi%20I'm%20Mingyao%20👋&fontSize=40&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Django%20|%20Python&descAlignY=55" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Full-Stack+Engineer+%F0%9F%87%AC%F0%9F%87%A7+Ipswich%2C+UK;Django+%7C+Python+%7C+REST+API;UK+Customs+%26+Logistics+Systems)](https://git.io/typing-svg)
+<!-- typing animation -->
 
-Graduate of the University of Melbourne 🎓
-
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-DRF-ff1709?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Django+%7C+Python+Developer;Building+Logistics+Systems;HMRC+CDS+Integration;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 💼 What I'm Working On
+## 👨‍💻 About Me
 
-- 🚢 **Logistics Management System** — TMS & customs clearance backend (Django + DRF)
-- 🇬🇧 **UK Customs Declaration** — HMRC CDS integration, duty calculation and notification handling
+🎓 Graduate from **University of Melbourne**
+
+💻 **Full-Stack Engineer** focused on backend systems using **Python & Django**
+
+🚚 Currently building **Logistics Management & Customs Declaration Systems**
+
+🇬🇧 Integrating with **HMRC CDS APIs**
+
+⚡ Interested in
+
+* System Design
+* Distributed Systems
+* Cloud Infrastructure
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django Rest](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge)
+
+### Database & Cache
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+
+### Async / Queue
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+
+---
+
+## 🚀 Current Projects
+
+### Logistics Management System
+
+Transport Management System backend
+
+Features
+
+* Shipment lifecycle management
+* Customs clearance workflow
+* Async task processing (Celery)
+* API service with Django REST Framework
+
+---
+
+### UK Customs Declaration
+
+Integration with **HMRC CDS**
+
+Features
+
+* Automated duty calculation
+* Declaration submission
+* Notification handling
+* Customs document workflow
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight" />
+
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mingyaox1&theme=tokyo-night"/>
 
 ---
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linktr.ee/mingyaox)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mingyao.xiao@alumni.unimelb.edu.au)
+<p align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=100&section=footer)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐️ From [mingyaox1](https://github.com/mingyaox1)
