@@ -1,7 +1,7 @@
 # Mingyao
 
-Backend Engineer
-Python · Django · Distributed Systems
+Full-Stack Engineer
+Distributed Systems
 
 ---
 
