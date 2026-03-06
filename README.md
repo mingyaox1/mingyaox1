@@ -1,7 +1,7 @@
 # Mingyao
 
-Backend Engineer.  
-Building the infrastructure behind international trade.
+Full-Stack Engineer.  
+Building cross-border logistics platforms end to end.
 
 ---
 
@@ -9,22 +9,24 @@ Building the infrastructure behind international trade.
 
 Graduate of the University of Melbourne.
 
-I design and build backend systems with Python and Django —  
-customs declaration platforms, HMRC CDS integrations, and async  
-workflows that power real logistics at scale.
+I design and build full-stack systems for international freight and customs —
+from warehouse operations and container management to UK HMRC CDS integrations,
+backed by microservice architecture and async task pipelines.
 
 ---
 
 ## Stack
 
-Python · Django · REST Framework · MySQL · Redis · Celery · AWS · Linux
+Python · Django · REST Framework · Java · Spring Cloud  
+Vue 3 · MySQL · Redis · Celery · AWS · Linux
 
 ---
 
 ## Work
 
-Customs declaration platforms · HMRC CDS integration  
-Logistics APIs · Async task processing · Backend architecture
+Cross-border logistics platforms · Customs declaration (HMRC CDS)  
+Warehouse management systems · Transport management systems  
+Microservice architecture · API gateway · Async task processing
 
 ---
 
