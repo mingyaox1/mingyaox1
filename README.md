@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Python+Backend+Developer;Django+%7C+REST+API;Logistics+Systems;HMRC+CDS+Integration"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Python+Backend+Developer;Django+REST+API;Logistics+Systems;HMRC+CDS+Integration"/>
 </p>
 
 ---
@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 * 🎓 Graduate from **University of Melbourne**
-* 💻 Full-Stack Engineer focusing on **Python & Django**
+* 💻 Full-Stack Engineer specializing in **Python & Django**
 * 🚚 Building **Logistics & Customs Systems**
-* 🇬🇧 Working with **HMRC CDS Integration**
-* ⚡ Interested in **Backend Architecture / System Design / Cloud**
+* 🇬🇧 Working with **HMRC CDS integration**
+* ⚡ Interested in **Backend Architecture / Distributed Systems / Cloud**
 
 ---
 
@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -45,7 +45,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mingyaox1&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mingyaox1&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mingyaox1&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mingyaox1&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ---
