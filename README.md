@@ -1,13 +1,19 @@
 <!-- HERO BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f9cff,100:2dd4bf&height=250&section=header&text=Mingyao%20👋&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Django%20|%20Python&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Mingyao%20👋&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Python%20%7C%20Django&descAlignY=60"/>
+</p>
+
+<!-- VISITOR COUNTER -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mingyaox1&style=for-the-badge&color=blue"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Python+%7C+Django+Developer;Building+Logistics+Platforms;HMRC+CDS+Integration;Cloud+%26+Backend+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;Python+%7C+Django+Developer;Building+Logistics+Systems;HMRC+CDS+Integration;Backend+Architecture+%26+Cloud"/>
 </p>
 
 ---
@@ -16,18 +22,18 @@
 
 🎓 Graduate from **University of Melbourne**
 
-💻 Backend focused **Full-Stack Engineer**
+💻 **Full Stack Engineer** specializing in **Python / Django**
 
-⚙️ Building **Logistics & Customs Systems**
+🚚 Building **Logistics & Customs Clearance Systems**
 
 🇬🇧 Integrating with **HMRC CDS APIs**
 
-🚀 Interested in
+⚡ Interested in
 
-* System Design
 * Distributed Systems
+* Backend Architecture
+* System Design
 * Cloud Infrastructure
-* High-scale Backend Systems
 
 ---
 
@@ -35,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,redis,aws,docker,linux,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,django,mysql,redis,aws,docker,linux,git,github,vscode"/>
 
 </p>
 
@@ -47,16 +53,24 @@
 
 Transport Management System backend
 
+Tech
+
+* Django
+* Django REST Framework
+* Redis
+* Celery
+* MySQL
+
 Features
 
-* Shipment lifecycle management
+* Shipment lifecycle
 * Customs clearance workflow
-* Async processing with **Celery**
-* Django REST APIs
+* Async processing
+* Logistics automation
 
 ---
 
-## UK Customs Declaration
+## UK Customs Declaration Platform
 
 Integration with **HMRC CDS**
 
@@ -91,7 +105,7 @@ Features
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mingyaox1&theme=tokyo-night"/>
 
@@ -101,18 +115,16 @@ Features
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mingyaox1&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mingyaox1&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mingyaox1&color=blue&style=for-the-badge"/>
-
+<img src="https://raw.githubusercontent.com/mingyaox1/mingyaox1/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -129,14 +141,6 @@ Features
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/mingyaox1/mingyaox1/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
