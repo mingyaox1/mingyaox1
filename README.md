@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Mingyao%20👋&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Python%20|%20Django&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5f9cff,100:2dd4bf&height=260&section=header&text=Hi%20I'm%20Mingyao%20👋&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Python%20|%20Django&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;Python+Backend+Developer;Django+%7C+API+Architecture;Logistics+Systems+Developer;HMRC+CDS+Integration"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;Python+Backend+Developer;Django+%7C+REST+API;Logistics+Systems;HMRC+CDS+Integration"/>
 </p>
 
 ---
@@ -16,11 +16,11 @@
 
 🎓 Graduate from **University of Melbourne**
 
-💻 **Full Stack Engineer** specializing in **Python / Django**
+💻 Full Stack Engineer focused on **Python / Django**
 
-🚚 Building **Logistics & Customs Clearance Systems**
+🚚 Currently building **Logistics & Customs Systems**
 
-🇬🇧 Integrating with **HMRC CDS APIs**
+🇬🇧 Working with **HMRC CDS integration**
 
 ⚡ Interested in
 
@@ -41,25 +41,13 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/mingyaox1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mingyaox1&repo=REPO_NAME&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mingyaox1&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyaox1&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -103,11 +91,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
