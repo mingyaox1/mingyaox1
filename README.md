@@ -1,19 +1,13 @@
-<!-- HERO BANNER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Mingyao%20👋&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Python%20%7C%20Django&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=260&section=header&text=Mingyao%20👋&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20Python%20|%20Django&descAlignY=60"/>
 </p>
-
-<!-- VISITOR COUNTER -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mingyaox1&style=for-the-badge&color=blue"/>
 </p>
 
-<!-- TYPING ANIMATION -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;Python+%7C+Django+Developer;Building+Logistics+Systems;HMRC+CDS+Integration;Backend+Architecture+%26+Cloud"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;Python+Backend+Developer;Django+%7C+API+Architecture;Logistics+Systems+Developer;HMRC+CDS+Integration"/>
 </p>
 
 ---
@@ -30,10 +24,10 @@
 
 ⚡ Interested in
 
-* Distributed Systems
-* Backend Architecture
-* System Design
-* Cloud Infrastructure
+• Backend Architecture
+• Distributed Systems
+• System Design
+• Cloud Infrastructure
 
 ---
 
@@ -47,39 +41,15 @@
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-## Logistics Management System
+<p align="center">
 
-Transport Management System backend
+<a href="https://github.com/mingyaox1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mingyaox1&repo=REPO_NAME&theme=tokyonight"/>
+</a>
 
-Tech
-
-* Django
-* Django REST Framework
-* Redis
-* Celery
-* MySQL
-
-Features
-
-* Shipment lifecycle
-* Customs clearance workflow
-* Async processing
-* Logistics automation
-
----
-
-## UK Customs Declaration Platform
-
-Integration with **HMRC CDS**
-
-Features
-
-* Automated duty calculation
-* Declaration submission
-* Notification handling
-* Customs compliance workflow
+</p>
 
 ---
 
@@ -105,7 +75,7 @@ Features
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mingyaox1&theme=tokyo-night"/>
 
@@ -142,7 +112,3 @@ Features
 </a>
 
 </p>
-
----
-
-⭐️ From [mingyaox1](https://github.com/mingyaox1)
