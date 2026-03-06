@@ -1,7 +1,7 @@
 # Mingyao
 
-Full-Stack Engineer
-Python · Django · Backend Systems
+Backend Engineer
+Python · Django · Distributed Systems
 
 ---
 
@@ -9,17 +9,23 @@ Python · Django · Backend Systems
 
 Graduate of the University of Melbourne.
 
-I build backend systems with Python and Django, focusing on logistics platforms and customs declaration workflows.
+I design and build backend systems with Python and Django, focusing on logistics platforms and customs declaration workflows.
 
-Currently working on:
-
-* Logistics Management Systems
-* UK Customs Declaration (HMRC CDS integration)
-* Backend architecture and distributed systems
+My recent work involves integrating with UK government systems such as HMRC CDS and building reliable backend services for international trade and logistics.
 
 ---
 
-## Tech Stack
+## Work
+
+Logistics management systems
+Customs declaration platforms
+HMRC CDS integration
+Backend API architecture
+Async task processing
+
+---
+
+## Stack
 
 Python
 Django
@@ -28,15 +34,16 @@ MySQL
 Redis
 Celery
 AWS
+Linux
 
 ---
 
-## Interests
+## Focus
 
-Backend Architecture
-System Design
-Distributed Systems
-Cloud Infrastructure
+Backend architecture
+System design
+Distributed systems
+Reliable API services
 
 ---
 
@@ -44,5 +51,3 @@ Cloud Infrastructure
 
 LinkedIn
 Email
-
----
